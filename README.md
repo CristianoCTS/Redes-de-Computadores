@@ -6,4 +6,5 @@ O foco dos materiais aqui presentes é a aplicação prática de conceitos de co
 
 ## Organização do Repositório:
 
-- **`Lista-de-Exercicios-Fechamento-Capítulo-2`**: Conjunto de scripts e soluções práticas referentes ao Capítulo 2 (Camada de Aplicação). Inclui implementações que demonstram o funcionamento de protocolos e a comunicação entre processos (ex: Sockets/Cliente-Servidor).
+- **`BBA`**: Implementação do algoritmo *Bandwidth-Based Adaptation* (BBA). Este projeto foca em algoritmos de bitrate adaptativo (ABR) para streaming de vídeo, simulando a adaptação da qualidade de reprodução com base na largura de banda disponível.
+- **`Lista-de-Exercicios-Fechamento-Capítulo-2`**: Conjunto de exercícios práticos e scripts referentes ao fechamento do Capítulo 2 (Camada de Aplicação), abordando conceitos fundamentais de protocolos de aplicação.
