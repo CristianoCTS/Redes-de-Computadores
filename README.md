@@ -1,10 +1,9 @@
 # Redes de Computadores
 
-Repositório dedicado às atividades e listas de exercícios da disciplina de **Redes de Computadores**, ministrada pelo professor Marcos Fagundes Caetano no semestre 2024.1.
+Este repositório contém as implementações práticas e resoluções de exercícios desenvolvidas para a disciplina de **Redes de Computadores**, ministrada pelo professor Marcos Fagundes Caetano no semestre 2024.1 na Universidade de Brasília (UnB).
 
-O conteúdo foca na fixação teórica e prática dos conceitos fundamentais de comunicação de dados e protocolos de rede.
+O foco dos materiais aqui presentes é a aplicação prática de conceitos de comunicação de dados, utilizando a linguagem **Python** para ilustrar o funcionamento de protocolos e aplicações de rede.
 
 ## Organização do Repositório:
 
-- **`Lista-de-Exercicios-Fechamento-Capítulo-2`**: Resolução de exercícios e tópicos referentes à Camada de Aplicação e conceitos introdutórios.
-
+- **`Lista-de-Exercicios-Fechamento-Capítulo-2`**: Conjunto de scripts e soluções práticas referentes ao Capítulo 2 (Camada de Aplicação). Inclui implementações que demonstram o funcionamento de protocolos e a comunicação entre processos (ex: Sockets/Cliente-Servidor).
